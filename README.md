@@ -4,7 +4,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 # AI in medecin
 
-Final project for the Building AI course
+Final project for the Building AI course AI in medecin
 
 ## Summary
 
