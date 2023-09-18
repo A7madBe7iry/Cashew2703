@@ -22,7 +22,10 @@ Artificial intelligence can automate routine tasks, thus freeing healthcare prof
 
 Artificial intelligence can examine a wide range of social data sources such as hospital social records or environmental data to detect disease outbreaks. It can analyze this data in real time, allowing early detection and rapid response to potential health crises. Providing personalized health assessments based on an individual's medical history and lifestyle factors. This allows early intervention and prevention measures tailored to individual health profiles. AI algorithms help manage the allocation of hospital beds or distribute healthcare resources efficiently during crises, as happened during the COVID-19 pandemic.
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fm-quality.net%2F%3Fp%3D44447&psig=AOvVaw1bRkRPv-kNzzrt1dFM3LHB&ust=1695156350399000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCND_0uuDtYEDFQAAAAAdAAAAABAE
+![image](https://github.com/A7madBe7iry/neworoject/assets/145387654/4d4b7598-3fe4-4001-b04d-e0deefe6d0c7)
+![image](https://github.com/A7madBe7iry/neworoject/assets/145387654/1d738d93-b64a-4cae-87ea-4067bfc43f30)
+![image](https://github.com/A7madBe7iry/neworoject/assets/145387654/9df9a5e3-d1c5-4baa-8414-069f22d77b29)
+![image](https://github.com/A7madBe7iry/neworoject/assets/145387654/a1d1628f-32c2-430c-abb4-464469930a5c)
 
 
 ## Data sources and AI methods
