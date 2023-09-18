@@ -24,7 +24,6 @@ Artificial intelligence can examine a wide range of social data sources such as 
 
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fm-quality.net%2F%3Fp%3D44447&psig=AOvVaw1bRkRPv-kNzzrt1dFM3LHB&ust=1695156350399000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCND_0uuDtYEDFQAAAAAdAAAAABAE
 ```
-![Uploading IMG_3550.jpg…]()
 
 
 
